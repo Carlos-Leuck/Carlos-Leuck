@@ -1,7 +1,6 @@
 <h1>Sobre mim</h1>
 
 * 💻 Desenvolvedor Fullstack
-* 😊 Eterno estudante 
 
 <h2>Formação Escolar</h2>
 
